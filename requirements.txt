@@ -1,0 +1,30 @@
+# Core dependencies for bird sound classification project
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0  # Required by librosa for audio file I/O
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Deep learning and computer vision
+fastai>=2.7.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# API requests
+requests>=2.31.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipython>=8.0.0
+ipykernel>=6.0.0
+
