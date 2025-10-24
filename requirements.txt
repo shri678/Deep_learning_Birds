@@ -19,6 +19,11 @@ torchvision>=0.15.0
 
 # Visualization
 matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine learning and phylogenetic analysis
+scikit-learn>=1.3.0
+scipy>=1.11.0
 
 # API requests
 requests>=2.31.0
